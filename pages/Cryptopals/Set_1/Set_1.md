@@ -1,0 +1,18 @@
+---
+layout: page
+title: Set 1
+description: Solutions to Set 1 of the Cryptopals challenge
+---
+
+## Set - 1
+This is the beginner set or the "Qualifying" set as they call it.
+I struggled on this set for weeks when I first started off, but it took me about 2.5 hours to finish it this time so yay.  
+## Challenges
+1. [Convert hex to base64](S1_C1.md)
+2. [Fixed XOR](S1_C2.md)
+3. [Single-byte XOR cipher](S1_C3.md)
+4. [Detect single-character XOR](S1_C4.md)
+5. [Implement repeating-key XOR](S1_C5.md)
+6. [Break repeating-key XOR](S1_C6.md)
+7. [AES in ECB mode](S1_C7.md)
+8. [Detect AES in ECB mode](S1_C8.md)
