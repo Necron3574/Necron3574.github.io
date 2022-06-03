@@ -1,10 +1,9 @@
 ---
 layout: page
-title: dhke-adventure
+title: DHKE-adventure
 description: Writeup for crypto challenge dhke-adventure in UIUCTF2021
 ---
 
-# DHKE-Adventure
 This was a writeup for the crypto challenge dhke_adventure in UIUCTF2021 which I won a prize for so I thought I'd put this up.
 ## Description
 ```
@@ -156,6 +155,6 @@ flag = cipher.decrypt(ct)
 print(flag)
 ```
 ## Links for further information
-1. https://en.wikipedia.org/wiki/Pohlig%E2%80%93Hellman_algorithm
-2. https://en.wikipedia.org/wiki/Discrete_logarithm
-3. https://www.comparitech.com/blog/information-security/Diffie-Hellman-key-exchange/
+1. [Pohlig Hellman Algorithm](https://en.wikipedia.org/wiki/Pohlig%E2%80%93Hellman_algorithm)
+2. [Discrete logarithm](https://en.wikipedia.org/wiki/Discrete_logarithm)
+3. [Diffie Hellman Key Exchange](https://www.comparitech.com/blog/information-security/Diffie-Hellman-key-exchange/)
