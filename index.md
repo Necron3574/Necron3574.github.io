@@ -5,7 +5,7 @@ tagline: Make yourself at home
 description: Just a personal blog for Necron3574
 ---
 
-#### Hello! I'm Necron.  
+#### Hello! I'm Kaustubh (Necron3574).  
 
 For a long time now, I've been thinking of starting a blog/website where I could post stuff I found cool. So, now that I have some time, I thought I should finally give it a try.
 
