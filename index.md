@@ -17,7 +17,7 @@ I have a keen interest for Cybersecurity and Cryptography and implementing them 
 The stuff I do ranges from Capture the Flag competitions with my team to random computer-science related projects which I think would be fun.  
 Feel free to reach out if you ever wanna have a chat.
 
-##### Project Stuff
+#### Project Stuff
 
 - [Cryptopals](pages/Cryptopals/Cryptopals.md)
 - [dhke-adventure](pages/dhke-adventure.md)
