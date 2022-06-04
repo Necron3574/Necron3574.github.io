@@ -7,7 +7,7 @@ description: Solutions to Set 1 of the Cryptopals challenge
 This is the beginner set or the "Qualifying" set as they call it.  
 The challenges on the set consist of a few basic concepts and test your coding skills.  
 The Sixth challenge was especially challenging as it needed a decent amount of scripting proficiency.  
-I struggled on this set for weeks when I first started off, but now it took me about 2.5 hours to finish it this time so yay.  
+I struggled on this set for weeks when I first started off, but this time it took me about 2.5 hours to finish it so yayy.  
 ### Challenges
 1. [Convert hex to base64](S1_C1.md)
 2. [Fixed XOR](S1_C2.md)
