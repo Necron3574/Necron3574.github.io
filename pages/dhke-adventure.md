@@ -130,6 +130,7 @@ a = discrete_log(A,g)
 
 * Now that we have `a` recovering the shared secret is trivial.
 * The shared secret `s = pow(B,a,p)`. This works because
+
 ```
 B = pow(g,b,p)
 ==> s = pow(B,a,p) = pow(pow(g,b,p),a,p) = pow(g,a*b,p)
