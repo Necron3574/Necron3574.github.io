@@ -3,9 +3,9 @@ layout: page
 title: Contact Me
 ---
 
-### Reach out to me
-
 I'd love to have a chat with you.
+
+### Reach out  
 
 - Email me at [kaustubhbm3574@gmail.com]()
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kaustubh3574/)
