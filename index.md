@@ -19,10 +19,9 @@ I’m also a Board Member and the Cryptography Subsystem Head of my team [Crypto
 I have an affinity towards cybersecurity and cryptography, and the majority of my work revolves around these topics.
 The stuff I do ranges from Capture the Flag competitions with my team to random computer-science related projects which I'll (hopefully) be putting up here.
 
-This website, is the consequence of a boring summer vacation so I'm not sure how often I'll be updating/bloggin here xD.   
-However, I'd love your feedback so please feel free to [reach out](pages/contact_me) to me incase you find any bugs on the site or just wanna have a good ol' chat.
+This website, is the consequence of a boring summer vacation so I'm not sure how often I'll be updating/bloggin here xD. However, I'd love your feedback so please feel free to [reach out](pages/contact_me) to me incase you find any bugs on the site or just wanna have a good ol' chat.
 
 #### What's New?
 
-- [Writeups for BCA-CTF 22](pages/bcactf_2022.md)
-- [Cryptopals Set-1 added](pages/Cryptopals/Set_1.md)
+- [Writeups for BCA-CTF 2022](pages/bcactf_2022.md)
+- [Cryptopals Set-1 added](pages/Cryptopals/Set_1/Set_1.md)

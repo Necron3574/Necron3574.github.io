@@ -4,7 +4,7 @@ title: BCA-CTF 2022
 description: Writeups for my solves in BCACTF 2022
 ---
 
-I participated in this CTF with my team [Cryptonite](https://cryptonite.team/). It was a fun competition with easy to medium ranged challenges with a few hard ones. I usually major in Crypto but I tried my hand in all categories in this CTF. We ranked 48th at the end of the event.
+I participated in this CTF with my team [Cryptonite](https://cryptonite.team/). It was a fun competition with mostly easy to medium ranged challenges with a few hard ones. I usually major in Crypto but I tried my hand in all categories in this CTF. We ranked 48th at the end of the event.
 
 # Writeups
 
@@ -237,9 +237,9 @@ for _ in range(10):
 
 > Welcome to the BOF Shop! Now you have the chance to buy your own flag! All you need to do is get a few coins first. Good luck.
 
-##### Source
+#### Source
 
-```C
+```C++
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -310,7 +310,7 @@ int main() {
 > I began storing my password with a super secure sequence, but I had to go make toast. Can you please retrieve my password? [File] (https://objects.bcactf.com/bcactf/Sequences/sequence.py)
 
 - This challenge gives us a python function where we need to generate a famous sequence to get the flag.
-- It additionally gives the first few values of the sequence. On googling the first few values`[0,1,3,6,2]`, we realise that it is the `[Recaman's Sequence](https://en.wikipedia.org/wiki/Recam%C3%A1n%27s_sequence)`.
+- It additionally gives the first few values of the sequence. On googling the first few values`[0,1,3,6,2]`, we realise that it is the [Recaman's Sequence](https://en.wikipedia.org/wiki/Recam%C3%A1n%27s_sequence).
 - Thus, after writing a function to generate the Recaman's sequence, we get our flag.
 
 ```python
