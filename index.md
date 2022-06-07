@@ -21,3 +21,8 @@ The stuff I do ranges from Capture the Flag competitions with my team to random 
 
 This website, is the consequence of a boring summer vacation so I'm not sure how often I'll be updating/bloggin here xD.   
 However, I'd love your feedback so please feel free to [reach out](pages/contact_me) to me incase you find any bugs on the site or just wanna have a good ol' chat.
+
+#### What's New?
+
+- [Writeups for BCA-CTF 22](pages/bcactf_2022.md)
+- [Cryptopals Set-1 added](pages/Cryptopals/Set_1.md)

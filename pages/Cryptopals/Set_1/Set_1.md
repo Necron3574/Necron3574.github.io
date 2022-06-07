@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Set 1
-description: Solutions to Set 1 of the Cryptopals challenge
+title: Cryptopals - Set 1
+description: Solutions to Set 1 of the Cryptopals challenges
 ---
 
 This is the beginner set or the "Qualifying" set as they call it.  
