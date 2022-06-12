@@ -10,4 +10,5 @@ I'll keep updating my solutions over here (very unregularly) so check them out x
 
 ### Sets
 - [Set 1](Set_1/Set_1.md)
+- [Set 2](Set_2/Set_2.md)
 - More solutions coming soon ...
