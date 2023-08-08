@@ -10,9 +10,10 @@ description: Just a personal blog for Necron3574
 For a long time now, I've been thinking of starting a blog/website where I could post stuff I found cool. Now that I have some time, I thought I should finally give this a try.
 
 #### A lil about me  
-I’m a final year undergrad student in Manipal Institute of Technology, majoring in Computers and Communication Engineering.  
 
-I have been working (Both as an intern and as a part-time consultant) in the Automotive Security industry for more than an year now, where I’ve learnt a lot about the real time applications of cybersecurity especially in the connected car environment.
+I am currently working as a Security Researcher at Microsoft. I’ve completed my Bachelor of Technology from Manipal Institute of Technology, majoring in Computers and Communication Engineering.  
+
+I have worked (Both as an intern and as a part-time consultant) in the Automotive Security industry for about 2 years, where I’ve learnt a lot about the real time applications of cybersecurity especially in the connected car environment.
 
 I was also a Board Member and the Cryptography Subsystem Head of my team [Cryptonite](https://www.cryptonitemit.com), which is the official ethical hacking team of MIT Manipal.  
 
