@@ -11,7 +11,7 @@ description: A blog post about my trip to Seattle to attend the Microsoft Aspire
 It all started 3 months ago, when I got a mail from the Aspire team telling me I'm invited to attend the in person Start Strong Plus in Seattle.
 Fast forward 3 months of rabidly checking the scheduling website for visa slots, going to Delhi to get a Visa (shoutout to my LT for being super supportive on this) , last minute packing and almost missing flights,  I'm finally at Hyderabad airport - Gate 21 ready to get this started.
 
-![Hyderabad Airport](/assets/images/Hyd_Airport.jpg)
+![Hyderabad Airport](/assets/images/Hyd_Airport.jpg){width=200 height=100}
 
 We board Vistara (best domestic airline in India imo) which takes us to Delhi. After a 3 quick layover at delhi (We grabbed some McD) we began our main flight.
 
@@ -29,8 +29,8 @@ From here we boarded our final flight to SEATTLE. It was a relatively quicker fl
 We uber'd to our hotel Hyatt at Olive 8 which was a really cool hotel that was close to the convention centre. The first thing I did after checking in was take a hot shower. After a 35 hour flight, I was dead tired but I had to power through and have dinner 
 My colleague Anusha and I had dinner at Chans korean resturant where they had these AMAZING chicken wings:
 
-<center><img src="/assets/images/Chans.jpg" width=70%/></center>  
-  
+![Chicken Wings](/assets/images/Chans.jpg){width=20 height=100}  
+
 They also had this delicious roasted duck dish with rice and seaweed(Yep). So you had to roll the rice into a seaweed wrap and eat it which was very cool. 
 After dinner I went back to my room and was just chilling around. I couldn't sleep for quite a while and ended up waking up groggy and jet lagged on day 2.
 
@@ -46,7 +46,11 @@ We made our way up to the space needle through an elevator whose operator does f
 When we went up it was raining and it was C O L D out there. (*PS - Here's the taxanomy of how I'm going to refer to how cold it was. cold - meh | COLD - its kinda cold | C O L D - I can't feel certain parts of me anymore*)
 The view was spectacular and we could see all of Seattle from up there. The rain however played a spoil sport and we couldn't get the best pictures but here's one in which I look presentable (*There is another taxanomy guide on how I refer to my own attire but I'll spare you from that*):
 
-<center><img src="~/assets/images/Needle_Morning.jpg" width=70%/></center>  
+![Space Needle in the morning](/assets/images/Needle_Morning.jpg){: width="10%"} 
+
+cc
+
+![Space Needle in the morning](/assets/images/Needle_Morning.jpg){: width="70%"} 
 
 After the space needle we went to the Seattle Aquarium and spent some time looking at the aquatic life in and around Seattle.
 There was a cool Jelly fish arc reactor thingy, some octopus, cool fishes and some ugly spikey coral thingies that I poked for fun.
