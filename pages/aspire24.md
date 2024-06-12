@@ -9,7 +9,7 @@ description: A blog post about my trip to Seattle to attend the Microsoft Aspire
 It all started 3 months ago, when I got a mail from the Aspire team telling me I'm invited to attend the in person Start Strong Plus in Seattle.
 Fast forward 3 months of rabidly checking the scheduling website for visa slots, going to Delhi to get a Visa (shoutout to my LT for being super supportive on this) , last minute packing and almost missing flights,  I'm finally at Hyderabad airport - Gate 21 ready to get this started.
 
-![Hyderabad Airport](/assets/images/Hyd_Airport.jpg){: width="40%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Hyderabad Airport](/assets/images/Hyd_Airport.jpg){: width="40%" .centered}  
 
 We board Vistara (best domestic airline in India imo) which takes us to Delhi. After a 3 quick layover at delhi (We grabbed some McD) we began our main flight.
 
@@ -27,7 +27,7 @@ From here we boarded our final flight to SEATTLE. It was a relatively quicker fl
 We uber'd to our hotel Hyatt at Olive 8 which was a really cool hotel that was close to the convention centre. The first thing I did after checking in was take a hot shower. After a 35 hour flight, I was dead tired but I had to power through and have dinner 
 My colleague Anusha and I had dinner at Chans korean resturant where they had these AMAZING chicken wings:
 
-![Chicken Wings](/assets/images/Chans.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Chicken Wings](/assets/images/Chans.jpg){: width="70%" .centered}  
 
 They also had this delicious roasted duck dish with rice and seaweed(Yep). So you had to roll the rice into a seaweed wrap and eat it which was very cool. 
 After dinner I went back to my room and was just chilling around. I couldn't sleep for quite a while and ended up waking up groggy and jet lagged on day 2.
@@ -44,12 +44,12 @@ We made our way up to the space needle through an elevator whose operator does f
 When we went up it was raining and it was C O L D out there. (*PS - Here's the taxanomy of how I'm going to refer to how cold it was. cold - meh | COLD - its kinda cold | C O L D - I can't feel certain parts of me anymore*)
 The view was spectacular and we could see all of Seattle from up there. The rain however played a spoil sport and we couldn't get the best pictures but here's one in which I look presentable (*There is another taxanomy guide on how I refer to my own attire but I'll spare you from that*):
 
-![Space Needle in the morning](/assets/images/Needle_Morning.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"} 
+![Space Needle in the morning](/assets/images/Needle_Morning.jpg){: width="70%" .centered} 
 
 After the space needle we went to the Seattle Aquarium and spent some time looking at the aquatic life in and around Seattle.
 There was a cool Jelly fish arc reactor thingy, some octopus, cool fishes and some ugly spikey coral thingies that I poked for fun.
 
-![Coral thingy](/assets/images/coral_touchy.PNG"){: width=40%;style="display:block; margin-left:auto; margin-right:auto"}  
+![Coral thingy](/assets/images/coral_touchy.PNG"){: width=40% .centered}  
 
 The seattle aquarium works on the concept of tide simulation where all the aquariums inside have tidal systems that generate waves in the aquarium at regular intervals.
 This is to give the fishes an accurate representation of how an actual sea would be and is known to help in keeping the aquariums cleaner.
@@ -59,11 +59,11 @@ After this we checked out of our temporary hotel and checked into The Westin Sea
 After checking into the hotel I just slept for a while. After a good dose on un-jetlagging myself, we decided to go back to the space needle to get the city view when its dark.
 What we did not realise was that the nights here are not as long as they are in India right now. We reached there at around 7PM and found the sky to be BRIGHT as day. We then bing'd the sunset time - which was around 9PM. So we got ourselves some coffee and then waited for sunset. The space needle had a revolving glass floor, one level lower than the main level so we spent some time taking pictures then, until the sun finally set. And my god was it worth the wait - I'll let the pictures do the talking:
 
-![Space Needle Evening](/assets/images/Needle_evening.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}
+![Space Needle Evening](/assets/images/Needle_evening.jpg){: width="70%" .centered}
 
 <br>
 
-![Space Needle Night](/assets/images/Needle_Night.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}
+![Space Needle Night](/assets/images/Needle_Night.jpg){: width="70%" .centered}
 
 
 We spent some more time taking pictures and then went down to the gift shop and bought some souvenirs before uber'ing home. We ended up eating our dinner in Westin itself before finally calling it a day and going to sleep
@@ -77,12 +77,12 @@ The commons was the area where most of the employees would get their food. Since
 There was a cool concept of eating lunch by the pound, where you could take your pick of food choices and put them all in a bowl. At the end of this we could weigh the bowl and pay based on the weight of the food we chose. After eating our lunch, we went to Building 92 which seemed to be the main building. In there was a campus store, a gaming centre and the famous Microsoft Letters outside the building.
 We spent some time at the Microsoft Store and looked around at a lot of cool stuff. There was a lot of Minecraft merch (Only for kids unfortunately) and I ended up buying a minecraft tshirt for my little brother, praying it fits him.
 I also took a cool picture near the minecraft exhibits:
-![Picture with Minecraft Background](/assets/images/Minecraft_bg.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}
+![Picture with Minecraft Background](/assets/images/Minecraft_bg.jpg){: width="70%" .centered}
 
 
 After this, we explored the building even more and went outside to get our cliche picture with the Microsoft letters:
 
-![Picture with the Microsoft Letters](/assets/images/MS%20letters.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}
+![Picture with the Microsoft Letters](/assets/images/MS%20letters.jpg){: width="70%" .centered}
 
 After the pictures we went outside, strolling around the campus. We passed by Studio X and some cool fitness centre after which it started raining quite heavily. We then rushed back to building 92 to wait out the rain, but even after 15-20 mins the rain didn't seem to be stopping. So we decided to uber to Bellevue Square Mall which was close to us so we can spend some time looking around there. We stayed there for a while and I bought some stuff to take back to India. I ate some delicious "orange chicken" there at Panda Express as an early dinner.
 After eating, we finally walked back to the bus station and took the 595 back to Seattle. The bus stop was 6 mins away from our hotel (thank god for that) so it was a quick walk back, after which we ended up crashing as we were super tired.
@@ -93,13 +93,13 @@ And now we're finally at day 3 aka ASPIRE DAY 1.
 I got up early, showered and made myself a quick coffee before setting off to the Seattle Convention Centre to official kick off Start Strong Plus.
 The Convention centre was a 6 minute walk from our hotel and the Aspire team had placeholders at the entrance to guide us to the event halls.
 
-![Aspire Placeholder](/assets/images/Aspire_placeholder.jpg){: width="30%";style="display:block; margin-left:auto; margin-right:auto"}
+![Aspire Placeholder](/assets/images/Aspire_placeholder.jpg){: width="30%" .centered}
 
 
 I made my way to the registration counter where they gave me my ID card. We were divided into 2 tracks, the deer and the orca.
 The Deer track were for the Aspire MBA's and the Orca track were for the University hires.
 
-![ID Card](/assets/images/ID_Card.jpg){: width="40%";style="display:block; margin-left:auto; margin-right:auto"}
+![ID Card](/assets/images/ID_Card.jpg){: width="40%" .centered}
 
 So I made my way to the hall for the Orca track where we kicked off Day 1 of Start Strong plus.
 We started with a keynote fireside chat from Charlotte Yarkoni (President of Commerce and Ecosystem). She spoke about her Journey into Microsoft and how she really valued accountability and trust. Do what you say and say what you do was her motto. She talked about building accountability and trust as one of the the key values she believed in.
@@ -127,7 +127,7 @@ The rough solutions we had for these problems were to
 
 We then had a lunch break where I found some of my college friends. We ended up taking a picture with the Aspire letters.
 
-![Picture with Aspire Letters](/assets/images/Aspire_letters.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Picture with Aspire Letters](/assets/images/Aspire_letters.jpg){: width="70%" .centered}  
 
 *Fun Fact: We were all in the same section back in college*
 
@@ -208,7 +208,7 @@ We also talked about our hobbies where I told him about my unhealthy addiction t
 
 We didn't even realise that we spent nearly 3 hours talking. We took a nice picture by a fireplace nearby before we said goodbye to Ryan:
 
-![Picture with Ryan](/assets/images/ryan_pic.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Picture with Ryan](/assets/images/ryan_pic.jpg){: width="70%" .centered}  
 
 
 Again, a big thank you to Ryan for taking the time out to come meet us and not getting annoyed by my 1000 emails while trying to schedule the meetup.
@@ -246,7 +246,7 @@ With this session, Aspire Start Strong + 2024 officially came to an end.
 All that was left was the Social, later on that night at the Museum of Pop Culture (MoPoP).
 We went up to Jason (Jazz) Gray and thanked him for such a great event and took a cool picture with him:
 
-![Picture with Jazz](/assets/images/Jazz_pic.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Picture with Jazz](/assets/images/Jazz_pic.jpg){: width="70%" .centered}  
 
 We went back to our rooms to change up for the Social night.
 We got dressed and then caught the monorail and went straight to MoPoP.
@@ -265,27 +265,27 @@ We got into the mini-van and were greeted by our tour guide Daniel with some sna
 
 Our first stop was a view point from where we could get some good pictures of Mt Rainier.
 
-![Viewpoint](/assets/images/Viewpoint.jpg){: width="40%";style="display:block; margin-left:auto; margin-right:auto"}   
+![Viewpoint](/assets/images/Viewpoint.jpg){: width="40%" .centered}   
 
 Our second stop was Christine falls. These were mini-waterfalls and not the coolest imo but we made a quick stop there and took some pics
 
-![Christine Falls](/assets/images/Christine.jpg){: width="40%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Christine Falls](/assets/images/Christine.jpg){: width="40%" .centered}  
 
 We then stopped by at Narada Falls. Now this was a really cool waterfall. The stream was really powerful and we could see a rainbow forming at the base. These falls were extremely beautiful to look at and the water spraying on our faces was really relaxing.
 
-![Narada Falls](/assets/images/Narada_falls.jpg){: width="40%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Narada Falls](/assets/images/Narada_falls.jpg){: width="40%" .centered}  
 
 The coolest part about this waterfall was that we could see a rainbow forming at the base of the fall.
 
-![Narada Falls with rainbow](/assets/images/Narada_rainbow.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Narada Falls with rainbow](/assets/images/Narada_rainbow.jpg){: width="70%" .centered}  
 
 Then some more driving later, we finally reached the base of the snow capped Mt Rainier. Daniel had come equipped with snow walking sticks and given each of us one of them. So the four of us started our mini climb up the mountain. We climbed for a while, had a snowball (more like iceball) fight and struggled to remain standing. We took a lot of pictures, here are a few:
 
-![Mt Rainier](/assets/images/Rainier.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Mt Rainier](/assets/images/Rainier.jpg){: width="70%" .centered}  
 
 By the time we came back down from the mountain, everything was about to close. We quickly rushed to the visitor centre and got something to eat. I was super hungry and ate pizza slices like a maniac. At this point we(I) were pretty much exhausted and done with the trip. But Daniel had planned one last stop at a rainforest with super long trees.
 
-![Long Trees](/assets/images/trees.jpg){: width="40%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Long Trees](/assets/images/trees.jpg){: width="40%" .centered}  
 
 We walked around the rainforest for a good 40 minutes before finally getting back into the minivan to go back home.
 The ride back home was quite long and I just crashed for a good hour an a half. Once we reached the hotel lobby, we thanked Daniel and tipped him.
@@ -295,7 +295,7 @@ I just remember going back to my room and sleeping after that.
 
 This was the last day at Seattle, I woke up early and went to Pike Market to buy some stuff. Then Anusha called me up and told me that Rangeet (Her skip level manager) and her teammate Ketan were also in Seattle. We went to go meet them near Kirkland where we went all shoppped for a while. We then went to the kirkland waterfront which was really beautiful. We ate some ice cream over there - before going back to Seattle for the Argosy harbour cruise. The four of us went on the one hour guided cruise which had a beautiful view of the skyline.
 
-![Seattle Skyline](/assets/images/Seat_Skyline.jpg){: width="70%";style="display:block; margin-left:auto; margin-right:auto"}  
+![Seattle Skyline](/assets/images/Seat_Skyline.jpg){: width="70%" .centered}  
 
 It was quite late by the time we finished the cruise, so we uber'd back to our hotel and quickly ate some burgers before finally booking a cab to the airport.
 We reached the airport well within time and had a lot of free time until we had to board our flight. Thats when I started writing this blog, I'm about 6 hours into the flight rn (The food was better this time) and hopefully the rest of the flight goes without incident :)
