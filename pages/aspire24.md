@@ -11,7 +11,7 @@ description: A blog post about my trip to Seattle to attend the Microsoft Aspire
 It all started 3 months ago, when I got a mail from the Aspire team telling me I'm invited to attend the in person Start Strong Plus in Seattle.
 Fast forward 3 months of rabidly checking the scheduling website for visa slots, going to Delhi to get a Visa (shoutout to my LT for being super supportive on this) , last minute packing and almost missing flights,  I'm finally at Hyderabad airport - Gate 21 ready to get this started.
 
-![Hyderabad Airport](/assets/images/Hyd_Airport.jpg){: width=="40%"}  
+![Hyderabad Airport](/assets/images/Hyd_Airport.jpg){: width="40%"}  
 
 We board Vistara (best domestic airline in India imo) which takes us to Delhi. After a 3 quick layover at delhi (We grabbed some McD) we began our main flight.
 
@@ -29,7 +29,7 @@ From here we boarded our final flight to SEATTLE. It was a relatively quicker fl
 We uber'd to our hotel Hyatt at Olive 8 which was a really cool hotel that was close to the convention centre. The first thing I did after checking in was take a hot shower. After a 35 hour flight, I was dead tired but I had to power through and have dinner 
 My colleague Anusha and I had dinner at Chans korean resturant where they had these AMAZING chicken wings:
 
-![Chicken Wings](/assets/images/Chans.jpg){: width=="70%"}  
+![Chicken Wings](/assets/images/Chans.jpg){: width="70%"}  
 
 They also had this delicious roasted duck dish with rice and seaweed(Yep). So you had to roll the rice into a seaweed wrap and eat it which was very cool. 
 After dinner I went back to my room and was just chilling around. I couldn't sleep for quite a while and ended up waking up groggy and jet lagged on day 2.
@@ -129,7 +129,7 @@ The rough solutions we had for these problems were to
 
 We then had a lunch break where I found some of my college friends. We ended up taking a picture with the Aspire letters.
 
-![Picture with Aspire Letters](/assets/images/Aspire_letters.jpg){: width=70%}  
+![Picture with Aspire Letters](/assets/images/Aspire_letters.jpg){: width="70%"}  
 
 *Fun Fact: We were all in the same section back in college*
 
@@ -210,7 +210,7 @@ We also talked about our hobbies where I told him about my unhealthy addiction t
 
 We didn't even realise that we spent nearly 3 hours talking. We took a nice picture by a fireplace nearby before we said goodbye to Ryan:
 
-![Picture with Ryan](/assets/images/ryan_pic.jpg){: width=70%}  
+![Picture with Ryan](/assets/images/ryan_pic.jpg){: width="70%"}  
 
 
 Again, a big thank you to Ryan for taking the time out to come meet us and not getting annoyed by my 1000 emails while trying to schedule the meetup.
@@ -248,7 +248,7 @@ With this session, Aspire Start Strong + 2024 officially came to an end.
 All that was left was the Social, later on that night at the Museum of Pop Culture (MoPoP).
 We went up to Jason (Jazz) Gray and thanked him for such a great event and took a cool picture with him:
 
-![Picture with Jazz](/assets/images/Jazz_pic.jpg){: width=70%}  
+![Picture with Jazz](/assets/images/Jazz_pic.jpg){: width="70%"}  
 
 We went back to our rooms to change up for the Social night.
 We got dressed and then caught the monorail and went straight to MoPoP.
@@ -267,27 +267,27 @@ We got into the mini-van and were greeted by our tour guide Daniel with some sna
 
 Our first stop was a view point from where we could get some good pictures of Mt Rainier.
 
-![Viewpoint](/assets/images/Viewpoint.jpg){: width=40%}   
+![Viewpoint](/assets/images/Viewpoint.jpg){: width="40%"}   
 
 Our second stop was Christine falls. These were mini-waterfalls and not the coolest imo but we made a quick stop there and took some pics
 
-![Christine Falls](/assets/images/Christine.jpg){: width=40%}  
+![Christine Falls](/assets/images/Christine.jpg){: width="40%"}  
 
 We then stopped by at Narada Falls. Now this was a really cool waterfall. The stream was really powerful and we could see a rainbow forming at the base. These falls were extremely beautiful to look at and the water spraying on our faces was really relaxing.
 
-![Narada Falls](/assets/images/Narada_falls.jpg){: width=40%}  
+![Narada Falls](/assets/images/Narada_falls.jpg){: width="40%"}  
 
 The coolest part about this waterfall was that we could see a rainbow forming at the base of the fall.
 
-![Narada Falls with rainbow](/assets/images/Narada_rainbow.jpg){: width=70%}  
+![Narada Falls with rainbow](/assets/images/Narada_rainbow.jpg){: width="70%"}  
 
 Then some more driving later, we finally reached the base of the snow capped Mt Rainier. Daniel had come equipped with snow walking sticks and given each of us one of them. So the four of us started our mini climb up the mountain. We climbed for a while, had a snowball (more like iceball) fight and struggled to remain standing. We took a lot of pictures, here are a few:
 
-![Mt Rainier](/assets/images/Rainier.jpg){: width=70%}  
+![Mt Rainier](/assets/images/Rainier.jpg){: width="70%"}  
 
 By the time we came back down from the mountain, everything was about to close. We quickly rushed to the visitor centre and got something to eat. I was super hungry and ate pizza slices like a maniac. At this point we(I) were pretty much exhausted and done with the trip. But Daniel had planned one last stop at a rainforest with super long trees.
 
-![Long Trees](/assets/images/trees.jpg){: width=40%}  
+![Long Trees](/assets/images/trees.jpg){: width="40%"}  
 
 We walked around the rainforest for a good 40 minutes before finally getting back into the minivan to go back home.
 The ride back home was quite long and I just crashed for a good hour an a half. Once we reached the hotel lobby, we thanked Daniel and tipped him.
@@ -297,7 +297,7 @@ I just remember going back to my room and sleeping after that.
 
 This was the last day at Seattle, I woke up early and went to Pike Market to buy some stuff. Then Anusha called me up and told me that Rangeet (Her skip level manager) and her teammate Ketan were also in Seattle. We went to go meet them near Kirkland where we went all shoppped for a while. We then went to the kirkland waterfront which was really beautiful. We ate some ice cream over there - before going back to Seattle for the Argosy harbour cruise. The four of us went on the one hour guided cruise which had a beautiful view of the skyline.
 
-![Seattle Skyline](/assets/images/Seat_Skyline.jpg){: width=70%}  
+![Seattle Skyline](/assets/images/Seat_Skyline.jpg){: width="70%"}  
 
 It was quite late by the time we finished the cruise, so we uber'd back to our hotel and quickly ate some burgers before finally booking a cab to the airport.
 We reached the airport well within time and had a lot of free time until we had to board our flight. Thats when I started writing this blog, I'm about 6 hours into the flight rn (The food was better this time) and hopefully the rest of the flight goes without incident :)
