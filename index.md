@@ -11,11 +11,11 @@ For a long time now, I've been thinking of starting a blog/website where I could
 
 #### A lil about me  
 
-I am currently working as a Security Researcher at Microsoft. I’ve completed my Bachelor of Technology from Manipal Institute of Technology, majoring in Computers and Communication Engineering.  
+I am currently working as a Security Researcher at Microsoft in the Defender Experts for Hunting team. I’ve completed my Bachelor of Technology from Manipal Institute of Technology, majoring in Computers and Communication Engineering.  
 
-I have worked (Both as an intern and as a part-time consultant) in the Automotive Security industry for about 2 years, where I’ve learnt a lot about the real time applications of cybersecurity especially in the connected car environment.
+I have worked as an intern in the Automotive Security industry for about 2 years, where I’ve learnt a lot about the real time applications of cybersecurity especially in the connected car environment.
 
-I was also a Board Member and the Cryptography Subsystem Head of my team [Cryptonite](https://www.cryptonitemit.com), which is the official ethical hacking team of MIT Manipal.  
+I was also a Board Member and the Cryptography Subsystem Head of my team [Cryptonite](https://cryptonite.live/), which is the official ethical hacking team of MIT Manipal.  
 
 I have an affinity towards cybersecurity and cryptography, and the majority of my work revolves around these topics.
 The stuff I do ranges from Capture the Flag competitions with my team to random computer-science related projects which I'll (hopefully) be putting up here.
@@ -24,6 +24,6 @@ This website, is the consequence of a boring summer vacation so I'm not sure how
 
 #### What's New?
 
-
+- [Blog for the Microsoft Aspire StartStrong+ event](pages/aspire24.md)
+- [Check out TrivHive](pages/trivhive.md)
 - [Writeups for BCA-CTF 2022](pages/bcactf_2022.md)
-- [Cryptopals Set-1 added](pages/Cryptopals/Set_1/Set_1.md)

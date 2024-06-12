@@ -1,11 +1,19 @@
 ---
 layout: page
-title: Projects
+title: Projects and Blogs
 ---
 
 You've reached the fun part (hopefully).  
 This is where I'll be putting up writeups and descriptions of all the projects and misc stuff that I do.  
 Check them out :)  
+
+- ##  [Aspire Start Strong Plus](aspire24.md)
+
+> A blogpost on my trip to Seattle to attend the Microsoft Aspire Start Strong Plus event.
+
+- ##  [TrivHive](trivhive.md)
+
+> A quick project using GPT 3.5 to create a trivia website from scratch.
 
 - ##  [Cryptopals](Cryptopals/Cryptopals.md)
 
