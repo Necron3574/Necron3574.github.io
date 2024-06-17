@@ -198,7 +198,7 @@ Our next session, we had our next Keynote Speaker, Cassandra Worthy.
 She talked about the concept of Change Enthusiasm which is the excitement or eagerness that individuals or groups exhibit towards embracing and implementing change within an organization. It's a measure of how positively people respond to the prospect of change and their willingness to actively participate in it rather than resist it.
 She gave us anecdotes from her life where she felt like she was unable to work with her manager or peers and taught us how to exhibit growth mindset and embrace change in our communities.
 
-We (Ritika, Anusha and I) then rushed to our hotels to get changed up and ready to meet a very Senior Leader at Defender Experts - Ryan Kivett.
+We (Ritika, Anusha and I) then rushed to our hotels to get changed up and ready to meet a Senior Leader at Defender Experts - Ryan Kivett.
 I was a little nervous before meeting him. Not being much of a conversationalist myself, I was worried I would have nothing much to contribute to the conversation, but I was just overthinking it.
 We met at a restaurant within the Westin (He was gracious enough to take time out and come meet us in Seattle) and once he came over we started talking about many different things.
 We talked about our experience with Aspire so far and the different activities we had gone through. We asked him how he started off his career and he told us about his early days, different teams and projects he worked on.
