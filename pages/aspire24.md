@@ -50,7 +50,7 @@ The view was spectacular and we could see all of Seattle from up there. The rain
 After the space needle we went to the Seattle Aquarium and spent some time looking at the aquatic life in and around Seattle.
 There was a cool Jelly fish arc reactor thingy, some octopus, cool fishes and some ugly spikey coral thingies that I poked for fun.
 
-![Coral thingy](/assets/images/Coral_thingy.jpg){: width=40% style="display:block; margin-left:auto; margin-right:auto"}  
+![Coral thingy](/assets/images/Coral_thingy.jpg){: width="40%" style="display:block; margin-left:auto; margin-right:auto"}  
 
 The seattle aquarium works on the concept of tide simulation where all the aquariums inside have tidal systems that generate waves in the aquarium at regular intervals.
 This is to give the fishes an accurate representation of how an actual sea would be and is known to help in keeping the aquariums cleaner.
@@ -183,6 +183,9 @@ This should be a step by step outline to achieve the goal and must be time bound
 At the end of the session we were given a form to fill out about what we would want to tell our future self.
 2 years later - we would get this form back to reflect upon.
 
+![Picture of the Aspire Stage](/assets/images/Aspire_event_pic.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto"}
+*A picture of how cool the stage set-up was*  
+
 Then came the session on Elevating our Vocal Impact led by Gemma and Stew, which proved to be an interactive and lively experience.
 
 The session began with playful exercises focused on exploring the nuances of voice modulation and pitch. We partnered up with random individuals, experimenting with different tones and modulations while engaging in conversation.
@@ -190,9 +193,6 @@ The session began with playful exercises focused on exploring the nuances of voi
 One of the highlights was an activity where we formed groups with strangers and created impromptu stories using any three random words (Ours were Izaac, Orange, and WaterBottle). After crafting our stories, we were challenged to enact it and keep improvising by either expanding or shortening our act. We also were told to "sing" our story or "mime" our story to really improve our modulation and non-verbal skills.
 
 In between the sessions, we also had a lot of time to interact with people from different teams, countries, cultures. I met a lot of folks from Isreal who were also into Microsoft Security. While speaking to them, I was quite shocked to hear that in Isreal, everyone has to undergo a minimum of 2 years of mandatory service in the military, the moment they turn 18. I talked to a few folks who had horrifying stories of losing their friends in combat which made me really reflect on how privileged we are to be living in a protected space. I made it a point to connect with everyone either over Teams or on Linkedin and make sure to catch up with them to stay connected.
-
-![Picture of the Aspire Stage](/assets/images/Aspire_event_pic.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto"}
-*A picture of how cool the stage set-up was*  
 
 Our next session, we had our next Keynote Speaker, Cassandra Worthy.
 She talked about the concept of Change Enthusiasm which is the excitement or eagerness that individuals or groups exhibit towards embracing and implementing change within an organization. It's a measure of how positively people respond to the prospect of change and their willingness to actively participate in it rather than resist it.
@@ -298,7 +298,7 @@ We reached the airport well within time and had a lot of free time until we had 
 
 
 ## Thank You's
-I know this was wayyyyy longer than I intended this blog to be, but documenting life is good I guess.  
+I know this was a long read, but something I learnt from the Aspire event is to document life so that you can look back upon it sometime.  
 A special thank you to Suresh, Abhishek, Prasad, Shilpi, Ryan, Jason, the Aspire Team and everyone else involved in making this event happen for me.  
 It was truly an experience I can never forget.
 Thanks for reading!  
