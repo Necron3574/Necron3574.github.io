@@ -97,17 +97,13 @@ The Convention centre was a 6 minute walk from our hotel and the Aspire team had
 ![Aspire Placeholder](/assets/images/Aspire_placeholder.jpg){: width="30%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
-I made my way to the registration counter where they gave me my ID card. We were divided into 2 tracks, the deer and the orca.
-The Deer track were for the Aspire MBA's and the Orca track were for the University hires.
-
-![ID Card](/assets/images/ID_Card.jpg){: width="40%" style="display:block; margin-left:auto; margin-right:auto"}
-
-So I made my way to the hall for the Orca track where we kicked off Day 1 of Start Strong plus.
-We started with a keynote fireside chat from Charlotte Yarkoni (President of Commerce and Ecosystem). She spoke about her Journey into Microsoft and how she really valued accountability and trust. Do what you say and say what you do was her motto. She talked about building accountability and trust as one of the the key values she believed in.
+I made my way to the registration counter where they gave me my ID card. We were divided into 2 tracks, based on the animals, the deer and the orca.
+I made my way to the hall for the Orca track where we kicked off Day 1 of Start Strong plus.
+We started with a keynote fireside chat from Charlotte Yarkoni (President of Commerce and Ecosystem). She spoke about her Journey into Microsoft and how she really valued accountability and trust. She talked about building accountability and trust as one of the the key values she believed in.
 She also told us something really important - "managers are not mind readers" and emphasized on how we really need to communicate what we want to our managers to be able to get what we need.
 We then had an activity in which we were given pieces of paper with values, softwares and skills which we had to map to create the microsoft code of whats, whys and hows. We needed to map every "what" (software/product) to a "why" (value) and a "how" (skill) which was very insightful.
 
-Next up we had a session on "Future Proofing". We had an activity lined up for this where we were given a scenario.
+Next up we had a session on "Future Proofing". We had an activity lined up for this where we were given a hypthetical scenario.
 
 "Microsoft has ventured into the field of AI-based education and have put out an AI product which is supposed to replace teachers in the field of education.
 However, this product is failing."
@@ -144,7 +140,7 @@ Having identified our Gremlin, it was time to confront it. For each negative sta
 
 We then had 10 minutes to share our counter statements with others at our table, fostering support and understanding.  
 
-Now, we write the WORST thing your Gremlin tells you on a piece of paper. Write down your name, alias, Gremlins name and then hold the paper in the air.  
+Now, we write the WORST thing your Gremlin tells you on a piece of paper. Write down your name,contact, Gremlins name and then hold the paper in the air.  
 
 Then at the count of 3 - we all crush this piece of paper and throw it across the room while yelling our counter statements. The release of energy with this felt amazing.
 After throwing our paper ball, we have to collect someone else's and check-in with them 2 months later on how they are doing with their inner critcism.  
@@ -158,10 +154,8 @@ If you really look at it, by the end of day one we connected with 8 random stran
 
 I got ready for Start Strong Day 2 and made my way to the first session and boy was it a strong start.
 We had a powerful fireside chat with our CFO Amy Hood and CCO Frank Shaw.
-Frank was hosting the session by asking Amy a lot of questions from how she started her career to what are the major investments Microsoft is looking at.
 Amy spoke about her career and how a lot of people expect their careers to be a linear path but more often than not, that is not the case.
-She told us a story about how she was unemployed at the age of 30 after she left a job as a tour guide in a national park in Alcatraz.
-The fact that she can go from being unemployed at 30 to being the CFO of one of largest companies of all time is really inspiring and shows you that one can achieve anything if they put their mind to it.
+She told us a story about her real life experiences and about her journey and challenges she faced in her career.
 She also gave us Homework - which was to watch Satya's and Kevin's Keynotes at the recent Build event.
 Although I couldn't find Kevin's keynote online, here's the youtube link to [Satya's Keynote](https://www.youtube.com/watch?v=8OviTSFqucI).
 
@@ -191,7 +185,7 @@ The session began with playful exercises focused on exploring the nuances of voi
 
 One of the highlights was an activity where we formed groups with strangers and created impromptu stories using any three random words (Ours were Izaac, Orange, and WaterBottle). After crafting our stories, we were challenged to enact it and keep improvising by either expanding or shortening our act. We also were told to "sing" our story or "mime" our story to really improve our modulation and non-verbal skills.
 
-In between the sessions, we also had a lot of time to interact with people from different teams, countries, cultures. I met a lot of folks from Isreal who were also into Microsoft Security. While speaking to them, I was quite shocked to hear that in Isreal, everyone has to undergo a minimum of 2 years of mandatory service in the military, the moment they turn 18. I talked to a few folks who had horrifying stories of losing their friends in combat which made me really reflect on how privileged we are to be living in a protected space. I made it a point to connect with everyone either over Teams or on Linkedin and make sure to catch up with them to stay connected.
+In between the sessions, we also had a lot of time to interact with people from different teams, countries, cultures. I met a lot of folks from Isreal who were also into Microsoft Security and got to learn a lot more about their culture and way of life.
 
 Our next session, we had our next Keynote Speaker, Cassandra Worthy.
 She talked about the concept of Change Enthusiasm which is the excitement or eagerness that individuals or groups exhibit towards embracing and implementing change within an organization. It's a measure of how positively people respond to the prospect of change and their willingness to actively participate in it rather than resist it.
@@ -209,7 +203,7 @@ We didn't even realise that we spent nearly 3 hours talking. We took a nice pict
 ![Picture with Ryan](/assets/images/ryan_pic.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto"}  
 
 Again, a big thank you to Ryan for taking the time out to come meet us and sharing his experiences.  
-Also shout out to Abhishek (my skip level manager) for connecting us with Ryan so we could have this meet-up. Networking with people is not my strongest suit so having managers who help in growing my professional connections is invaluable.
+Also shout out to Abhishek for connecting us with Ryan so we could have this meet-up. Networking with people is not my strongest suit so having managers who help in growing my professional connections is invaluable.
 
 After he left, we went back to our rooms to prepare for tomorrow, our final day at the event, before finally crashing for the night.
 ## Day 6
@@ -223,8 +217,7 @@ After this, they shared steps for practicing good listening skills: acknowledgin
 
 The next session was a Fireside Chat with Joe Whittinghill, Priya Darshini and Chris Wells.
 Chris hosted the chat and asked questions to both Joe and Priya about their journey. They each described how they started off their careers.
-Fun fact - Priya Darshini (Who is now a CVP and leads the Talent Management team) was an intern when she was hired at Microsoft.
-It was really insightful listening to someone who had started from the grass root and made their way up to the top. Priya also shared some stories on how she transitioned as a manager and the lessons she learnt along the way.
+It was really insightful listening to people who had such a rich set of experiences and challenges that were personally very relatable. Priya also shared some stories on how she transitioned as a manager and the lessons she learnt along the way.
 
 The next and penultimate session was an activity called CODE ME.
 It was simple, you had 15 minutes to summarize all that we learnt and write a personal code for yourself.
@@ -292,7 +285,7 @@ I just remember going back to my room and sleeping after that.
 
 ## Day 8
 
-This was the last day at Seattle, I woke up early and went to Pike Market to buy some stuff. Then Anusha called me up and told me that Rangeet (Her skip level manager) and her teammate Ketan were also in Seattle. We went to go meet them near Kirkland where we all shoppped for a while. We then went to the Kirkland waterfront which was really beautiful. We ate some ice cream over there - before going back to Seattle for the Argosy harbour cruise. The four of us then  went on the one hour guided cruise which had a beautiful view of the skyline.
+This was the last day at Seattle, I woke up early and went to Pike Market to buy some stuff. Then Anusha called me up and told me that Rangeet and her Ketan from her team, were also in Seattle. We went to go meet them near Kirkland where we all shoppped for a while. We then went to the Kirkland waterfront which was really beautiful. We ate some ice cream over there - before going back to Seattle for the Argosy harbour cruise. The four of us then  went on the one hour guided cruise which had a beautiful view of the skyline.
 
 ![Seattle Skyline](/assets/images/Seat_Skyline.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto"}  
 
@@ -303,7 +296,7 @@ We reached the airport well within time and had a lot of free time until we had 
 ## Thank You's
 I know this was a long read, but something I learnt from the Aspire event is to document life so that you can look back upon it sometime.  
 A special thank you to Suresh, Abhishek, Prasad, Shilpi, Ryan, Jason, the Aspire Team and everyone else involved in making this event happen for me.  
-It was truly an experience I can never forget.
+It was truly an experience I can never forget.  
 Thanks for reading!  
 Stay safe and happy.
 
