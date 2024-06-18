@@ -33,7 +33,6 @@ My colleague Anusha and I had dinner at Chans korean resturant where we discover
 They also had this delicious roasted duck dish with rice and seaweed (yep). You had to roll the rice into a seaweed wrap and eat it which was very cool and Yum. 
 After dinner I went back to my room, trying to unwind. Although I was exhausted, I couldn't sleep for quite a while and ended up waking up groggy and jet lagged on day 2.
 
-
 ## Day 2 
 
 This was a Sunday and the only day to really explore the city, so although I was jet lagged I wanted to power through .
@@ -198,8 +197,8 @@ Our next session, we had our next Keynote Speaker, Cassandra Worthy.
 She talked about the concept of Change Enthusiasm which is the excitement or eagerness that individuals or groups exhibit towards embracing and implementing change within an organization. It's a measure of how positively people respond to the prospect of change and their willingness to actively participate in it rather than resist it.
 She gave us anecdotes from her life where she felt like she was unable to work with her manager or peers and taught us how to exhibit growth mindset and embrace change in our communities.
 
-We (Ritika, Anusha and I) then rushed to our hotels to get changed up and ready to meet a very Senior Leader at Defender Experts - Ryan Kivett.
-I was a little nervous before meeting him. Not being much of a conversationalist myself, I was worried I would have nothing much to contribute to the conversation, but I was just overthinking it.
+We (Ritika, Anusha and I) then rushed to our hotels to get changed up and ready to meet a Senior Leader at Defender Experts - Ryan Kivett.
+Though I felt a bit nervous beforehand, it turned out to be unnecessary.
 We met at a restaurant within the Westin (He was gracious enough to take time out and come meet us in Seattle) and once he came over we started talking about many different things.
 We talked about our experience with Aspire so far and the different activities we had gone through. We asked him how he started off his career and he told us about his early days, different teams and projects he worked on.
 He told us the story of how the Defender Experts service began. We talked a lot about AI and how it has potential to enhance our service greatly. He gave me some great personal advice about higher education and whether its a nessecity for me to have a masters degree as I progress in my career in Microsoft.
@@ -239,13 +238,17 @@ We had an hour long session of our minds being blown with some crazy mentalism a
 
 With this session, Aspire Start Strong + 2024 officially came to an end.
 All that was left was the Social, later on that night at the Museum of Pop Culture (MoPoP).
-We went up to Jason (Jazz) Gray and thanked him for such a great event and took a cool picture with him:
+We went up to Jason "Jazz" Gray and thanked him for such a great event and took a cool picture with him:
 
 ![Picture with Jazz](/assets/images/Jazz_pic.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto"}  
 
 After changing into our evening attire, we hopped on the monorail and headed straight to MoPOP for the social night. The event was extemely well organized, with the entire museum booked out for us.
 
 Inside, they had fascinating exhibits ranging from Batman's original suit from the 1990s to Jimi Hendrix's iconic guitars. The atmosphere was lively a DJ, whose playlist also included some bollywood bangers to cater to the Indian folks, and a dance floor where we enjoyed ourselves to the fullest.
+
+They even had a really cool artwork called the Roots and Branches Sculpture which is like an inverted cone made of just musical instruments (mainly guitars):
+
+![Picture with Jazz](/assets/images/MoPop.jpg){: width="40%" style="display:block; margin-left:auto; margin-right:auto"}  
 
 To add to the fun, we were treated to free drink coupons and snacks, ensuring a memorable night of drinks, dancing, and bonding. It was an evening filled with laughter, new friendships, and unforgettable moments that will stay with me forever.
 
