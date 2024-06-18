@@ -285,7 +285,7 @@ I just remember going back to my room and sleeping after that.
 
 ## Day 8
 
-This was the last day at Seattle, I woke up early and went to Pike Market to buy some stuff. Then Anusha called me up and told me that Rangeet and her Ketan from her team, were also in Seattle. We went to go meet them near Kirkland where we all shopped for a while. We then went to the Kirkland waterfront which was really beautiful. We ate some ice cream over there - before going back to Seattle for the Argosy harbor cruise. The four of us then  went on the one hour guided cruise which had a beautiful view of the skyline.
+This was the last day at Seattle, I woke up early and went to Pike Market to buy some stuff. Then Anusha called me up and told me that Rangeet and Ketan from her team, were also in Seattle. We went to go meet them near Kirkland where we all shopped for a while. We then went to the Kirkland waterfront which was really beautiful. We ate some ice cream over there - before going back to Seattle for the Argosy harbor cruise. The four of us then  went on the one hour guided cruise which had a beautiful view of the skyline.
 
 ![Seattle Skyline](/assets/images/Seat_Skyline.jpg){: width="70%" style="display:block; margin-left:auto; margin-right:auto"}  
 
@@ -301,8 +301,8 @@ Thanks for reading!
 Stay safe and happy.
 
 
-
-
+## Note
+All views and opinions expressed in this blog are my own!
 
 
 
